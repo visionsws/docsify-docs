@@ -9,8 +9,8 @@
 
 
 ### 二、显示预览方面问题
-1. 在帆软设计器中，预览报表时会出现要求登录数据决策系统的情况
-[https://github.com/visionsws/docsify-docs/blob/master/docs/QQ%E5%9B%BE%E7%89%8720190929103004.png](login)
+1. 在帆软设计器中，预览报表时会出现要求登录数据决策系统的情况  
+[https://github.com/visionsws/docsify-docs/blob/master/docs/QQ%E5%9B%BE%E7%89%8720190929103004.png](login)  
 **解决：在第一次预览的时候需要确定权限问题，所以需要登陆蓝数通，之后会记住账号的情况，预览不再需要登陆就不会出现该情况**
 
 2. 页面显示有分页，但是显示不出来内容  
